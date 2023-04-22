@@ -130,6 +130,7 @@ img{
 .introducao img {
     height: 100%;
     object-fit: cover;
+
 }
 
 .introducao h1{
@@ -137,10 +138,12 @@ img{
     font-size: 64px;
     line-height: 1.125;
 
+
 }
 
 .introducao h1 span{
    color: #ffbb00; 
+
 }
 
 .introducao p{
@@ -149,6 +152,7 @@ img{
     line-height: 1.5;
     color: #b2b2b2;
 }
+
 .introducao a{
     display: inline-block;
     padding: 16px 32px;
